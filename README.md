@@ -1,5 +1,7 @@
 # StockItEasy - Inventory Management Application
 
+![SIE-Home Page](https://github.com/user-attachments/assets/e3a9a871-af0d-45c1-92d7-18302ffbedfa)
+
 **StockItEasy** is a Flutter-based inventory management application that leverages Firebase and Google APIs to provide an intuitive platform for managing stock, user accounts, and administrative tasks. The application is designed to streamline workflows and ensure efficient stock tracking, store management, and user account handling. Below, you'll find a comprehensive overview of the application, including its functionality, features, and the technologies used in both the frontend and backend.
 
 ---
